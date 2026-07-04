@@ -32,6 +32,7 @@ The system allows users to browse products, manage shopping cart, and place orde
 ---
 
 ## 📁 Project Structure
+
 Alaa_Hijazi/
 └── Project_Ecommerce/
 ├── database/
@@ -72,10 +73,10 @@ Alaa_Hijazi/
 │
 ├── css/
 │ └── style.css
-│
+|
 ├── js/
+|
 │ └── script.js
-│
 └── images/
 ├── ApplAirPods_Pro.jpg
 ├── bacckground.jpg
@@ -86,7 +87,6 @@ Alaa_Hijazi/
 ├── Power_Bank.jpg
 └── Wireless_Headphones.jpg
 
----
 
 ## ⚙️ How to Run the Project
 
