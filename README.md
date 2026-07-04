@@ -33,6 +33,7 @@ The system allows users to browse products, manage shopping cart, and place orde
 
 ## 📁 Project Structure
 
+```
 Alaa_Hijazi/
 └── Project_Ecommerce/
 ├── database/
@@ -86,7 +87,7 @@ Alaa_Hijazi/
 ├── laptop_hp_pavilion.jpg
 ├── Power_Bank.jpg
 └── Wireless_Headphones.jpg
-
+```
 
 ## ⚙️ How to Run the Project
 
